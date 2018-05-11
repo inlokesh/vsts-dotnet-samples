@@ -5,6 +5,7 @@
 
 *.suo
 packages/
+.vs
 
 *.csproj.user
 
@@ -16,3 +17,5 @@ app.Debug.config
 app.Release.config
 
 TestResults/
+/.vs/VSWorkspaceState.json
+*.sqlite
